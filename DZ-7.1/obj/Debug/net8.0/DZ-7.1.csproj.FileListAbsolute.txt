@@ -1,0 +1,14 @@
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/bin/Debug/net8.0/DZ-7.1
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/bin/Debug/net8.0/DZ-7.1.deps.json
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/bin/Debug/net8.0/DZ-7.1.runtimeconfig.json
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/bin/Debug/net8.0/DZ-7.1.dll
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/bin/Debug/net8.0/DZ-7.1.pdb
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.AssemblyInfoInputs.cache
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.AssemblyInfo.cs
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.csproj.CoreCompileInputs.cache
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.dll
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/refint/DZ-7.1.dll
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.pdb
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/DZ-7.1.genruntimeconfig.cache
+/home/ivankhabarov/Рабочий стол/DZ-7/DZ-7.1/obj/Debug/net8.0/ref/DZ-7.1.dll
