@@ -10,13 +10,13 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 void Natural(int m, int n)
 {
-.   if (m > n)
-.   return;
-.   if (m % 2 == 0)
+    if (m > n)
+    return;
+    if (m % 2 == 0)
 {
-.   Console.Write($"{m}, ");
+    Console.Write($"{m}, ");
 }
-.   Natural(m+1,n);
+    Natural(m+1,n);
 
 }
 Natural(m,n);
