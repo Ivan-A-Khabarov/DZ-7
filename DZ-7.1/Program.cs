@@ -2,28 +2,21 @@
 Задача 1: Задайте значения M и N. Напишите программу, которая выведет все натуральные числа в промежутке от M до N. Использовать рекурсию, не использовать циклы.
 */
 
-Console.WriteLine("Введите число M: ");
-int M = Convert.ToInt32(Console.ReadLine());
+Console.Write(«Введите значение M: «);
+int m = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите число N: ");
-int N = Convert.ToInt32(Console.ReadLine());
+Console.Write(«Введите значение N: «);
+int n = Convert.ToInt32(Console.ReadLine());
 
-SumMandN(M, N);
-void SumMandN(int M, int N)
-
+void Natural(int m, int n)
 {
-    Console.WriteLine(SumMN(M - 1, N));
-}
-
-int SumMN(int M, int N)
+if (m > n)
+return;
+if (m % 2 == 0)
 {
-    int result = M;
-    if (M == N)
-    return 0;
-    else
-    {
-        M++;
-        result = M + SumMN(M,N);
-        return result;
-    }
+Console.Write($"{m}, ");
 }
+Natural(m+1,n);
+
+}
+Natural(m,n);
